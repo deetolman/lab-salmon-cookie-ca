@@ -7,11 +7,4 @@
     let template = function(stores) {
 
         return html`
-            
-
-
-
-    }
-
-
-
+    }        
