@@ -15,7 +15,18 @@
     class StoreTable {
 
         constructor(props) {
+            this.stores = props.stores;
+            this.lastStores = this.stores.slice();
+        }
+
+        update(props) {
+
+
             
         }
+
+
+
+
+
     }
-}
